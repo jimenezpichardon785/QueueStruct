@@ -1,5 +1,7 @@
 //Nerys Jimenez Pichardo
-//CSC 381, Lab 8
+//The College of Saint Rose
+//November 6, 2015
+//Programming in Unix with C
 //Header file for a queue structure that holds int values
 
 typedef struct queue_node
