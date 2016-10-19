@@ -1,5 +1,7 @@
-//Nerys Jimenez
-//CSC 381, Lab 8
+//Nerys Jimenez Pichardo
+//The College of Saint Rose
+//November 6, 2015
+//Programming in Unix with C
 //Implementation file for a queue structure that holds int values
 
 #include <stdlib.h>
